@@ -6,7 +6,7 @@
 I have good knowledge of html css & css frameworks like bootstrap and tailwind css. I have good skills in javascript & javascript framework react js. I have good skills in back-end node js, express js & next js. I have a good understanding of MongoDB as a database. currently, I am studying computer science with software engineering subject
 
  <p align="left">
-   <a href="https://twitter.com/mehedycode"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>  &nbsp;  &nbsp;
+       <a href="https://twitter.com/mehedycode" target="blank"><img src="https://img.shields.io/twitter/follow/mehedycode?logo=twitter&style=for-the-badge" alt="mehedycode" /></a>  &nbsp;  &nbsp;
       <a href="https://github.com/mehedycode?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mehedycode?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>  &nbsp;
       <a href="https://github.com/mehedycode?tab=repositories&sort=stargazers">
