@@ -11,6 +11,7 @@ I have good knowledge of html css & css frameworks like bootstrap and tailwind c
       <a href="https://github.com/mehedycode?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mehedycode?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+    <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
 
 # 🧠 Tech
 
