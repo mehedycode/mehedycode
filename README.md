@@ -1,7 +1,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=150&duration=4000&pause=1000&color=82AAFF&center=true&vCenter=true&width=2000&height=500&lines=Software+Engineer;MERN+Stack+Enthusiast;Full-Stack+Developer)](https://git.io/typing-svg)  
+![gitBanner_gxomi1](https://github.com/user-attachments/assets/8970fd73-7873-42d2-97a8-0d2579d9bd4d)
 
 
 
