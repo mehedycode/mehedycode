@@ -22,4 +22,4 @@
  <br/>
 
  ## 📲 Connect
-[![X](https://img.shields.io/badge/X-black.svg?logo=twitter&logoColor=white)](https://twitter.com/mehedycode) &nbsp;  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/devmehedirony) &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/devmehedirony) 
+[![X](https://img.shields.io/badge/twitter-black.svg?logo=x&logoColor=white)](https://twitter.com/mehedycode) &nbsp;  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/devmehedirony) &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/devmehedirony) 
