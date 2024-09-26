@@ -6,7 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=100&duration=4000&pause=1000&color=82AAFF&center=true&vCenter=true&width=2000&height=100&lines=Software+Engineer;MERN+Stack+Enthusiast;Full-Stack+Developer)](https://git.io/typing-svg)
 
-
+<br/>
+<br/>
 
 **`Engineer | Developer | MERN Stack Enthusiast`**  <br/> <br/>
 I have good knowledge of html css & css frameworks like bootstrap and tailwind css. I have good skills in javascript & javascript framework react js. I have good skills in back-end node js, express js & next js. I have a good understanding of MongoDB as a database. currently, I am studying computer science with software engineering subject
