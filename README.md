@@ -1,5 +1,5 @@
 
-![giphy (1)](https://github.com/user-attachments/assets/24e832fd-b389-4ac9-946b-34e4409057f5) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=100&duration=4000&pause=1000&color=82AAFF&center=true&vCenter=true&width=2000&height=100&lines=Software+Engineer;MERN+Stack+Enthusiast;Full-Stack+Developer)](https://git.io/typing-svg)
+![giphy (1)](https://github.com/user-attachments/assets/24e832fd-b389-4ac9-946b-34e4409057f5) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=30&duration=4000&pause=1000&color=82AAFF&center=true&vCenter=true&width=450&height=50&lines=Software+Engineer;MERN+Stack+Enthusiast;Full-Stack+Developer)](https://git.io/typing-svg)
 
 
 
