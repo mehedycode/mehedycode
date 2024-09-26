@@ -1,7 +1,7 @@
 
 
 # 👾 Iam
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**` Engineer | Developer | MERN Stack Enthusiast )`**
 </> Font End Developer<br>👨🏻‍💻 Junior Programmer<br>🎓 Currently Studying In CSE 
 <br/> <br/>
 
