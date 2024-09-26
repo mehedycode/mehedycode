@@ -1,9 +1,6 @@
 
 
-
-
-
-
+![mehedycode](https://github.com/user-attachments/assets/1a216791-2623-4723-8a77-7764f87f1bf0)
 
 **`Engineer | Developer | MERN Stack Enthusiast`**  <br/> <br/>
 I have good knowledge of html css & css frameworks like bootstrap and tailwind css. I have good skills in javascript & javascript framework react js. I have good skills in back-end node js, express js & next js. I have a good understanding of MongoDB as a database. currently, I am studying computer science with software engineering subject
