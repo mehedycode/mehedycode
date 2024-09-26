@@ -1,4 +1,7 @@
 
+![giphy (1)](https://github.com/user-attachments/assets/955d4bff-64a0-4f5c-9cec-4854f1774f83){.image25percent }
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=150&duration=4000&pause=1000&color=82AAFF&center=true&vCenter=true&width=2000&height=500&lines=Software+Engineer;MERN+Stack+Enthusiast;Full-Stack+Developer)](https://git.io/typing-svg)  
 
 
