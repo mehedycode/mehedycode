@@ -5,7 +5,12 @@
 I have good knowledge of html css & css frameworks like bootstrap and tailwind css. I have good skills in javascript & javascript framework react js. I have good skills in back-end node js, express js & next js. I have a good understanding of MongoDB as a database. currently, I am studying computer science with software engineering subject
 
 
-
+ <p align="left">
+      <a href="https://github.com/mehedycode?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mehedycode?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
 # 🧠 Tech
 
