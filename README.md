@@ -19,9 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedycode&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br> <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mehedycode&theme=blue_navy&hide_border=true)
 
-
-
  <br/> <br/>
 
  ## 📲 Connect
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/https://x.com/mehedycode) &nbsp;  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/devmehedirony) &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/devmehedirony) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/mehedycode) &nbsp;  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/devmehedirony) &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/devmehedirony) 
