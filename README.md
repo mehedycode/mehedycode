@@ -47,4 +47,4 @@ I have good knowledge of html css & css frameworks like bootstrap and tailwind c
 ### 📉 Current Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedycode&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br> <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mehedycode&theme=blue_navy&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=mehedycode&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false)
