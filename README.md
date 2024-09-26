@@ -1,6 +1,6 @@
 
+![giphy (1)](https://github.com/user-attachments/assets/24e832fd-b389-4ac9-946b-34e4409057f5)
 
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <br/>
 
