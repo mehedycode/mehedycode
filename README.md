@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 # 👨‍🎓 Iam
-</> Font End Developer<br>👨🏻‍💻 Junior Programmer<br>🎓 Currently Studying In CSE
+</> Font End Developer<br>👨🏻‍💻 Junior Programmer<br>🎓 Currently Studying In CSE 
+<br/> <br/>
 
 
 ## 📲 Connect
