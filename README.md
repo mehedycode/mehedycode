@@ -1,7 +1,7 @@
 
 
 # 👾 Iam
-**` Engineer | Developer | MERN Stack Enthusiast )`**
+**`Engineer | Developer | MERN Stack Enthusiast`**  <br/> <br/>
 </> Font End Developer<br>👨🏻‍💻 Junior Programmer<br>🎓 Currently Studying In CSE 
 <br/> <br/>
 
