@@ -30,11 +30,11 @@ I have good knowledge of html css & css frameworks like bootstrap and tailwind c
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 
+<br />
+
+#
 
 
-<br/>
-<br/>
-<br/>
 
 ### 📉 Current Stats
 
