@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=25&duration=4000&pause=1000&color=82AAFF&center=true&vCenter=true&width=400&height=50&lines=Software+Engineer;MERN+Stack+Enthusiast;Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=25&duration=4000&pause=1000&color=82AAFF&center=true&vCenter=true&width=2000&height=50&lines=Software+Engineer;MERN+Stack+Enthusiast;Full-Stack+Developer)](https://git.io/typing-svg)
 
 
 **`Engineer | Developer | MERN Stack Enthusiast`**  <br/> <br/>
