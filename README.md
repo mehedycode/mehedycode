@@ -50,8 +50,7 @@ I have good knowledge of html css & css frameworks like bootstrap and tailwind c
 
 ![](https://github-readme-stats.vercel.app/api?username=mehedycode&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false) 
 
-<br />
-<br />
+
 
 #
 
