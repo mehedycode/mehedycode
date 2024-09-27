@@ -47,5 +47,8 @@ I have good knowledge of html css & css frameworks like bootstrap and tailwind c
 
 ### 📉 Current Stats
 
-![](https://github-readme-stats.vercel.app/api?username=mehedycode&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false) &nbsp; &nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedycode&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mehedycode&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedycode&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
