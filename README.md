@@ -60,7 +60,6 @@ I have good knowledge of html css & css frameworks like bootstrap and tailwind c
 
 #
 
-## 📨 How to reach me ➤ mehedycode@gmail.com
+## 📨 How to reach me 
+➤ mehedycode@gmail.com
 
-<br/>
-<br/>
