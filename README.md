@@ -1,6 +1,6 @@
 
 
-![mehedycode](https://github.com/user-attachments/assets/edda6a18-4864-4d27-b38f-aef1aac15c4b)
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
 
 
 
@@ -52,7 +52,7 @@ I have good knowledge of html css & css frameworks like bootstrap and tailwind c
 
 #
 
-### 👾 Used Languages
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Used Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedycode&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
