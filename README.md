@@ -15,9 +15,7 @@ I have good knowledge of html css & css frameworks like bootstrap and tailwind c
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mehedycode?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
  
    </p>
-
-   
-   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="200" />  
+   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" />  
 
 ###  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="20" /> Tech and Tools
 
