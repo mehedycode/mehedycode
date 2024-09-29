@@ -42,17 +42,7 @@ I have good knowledge of html css & css frameworks like bootstrap and tailwind c
 
 #
 
-
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Current Stats
-
-![](https://github-readme-stats.vercel.app/api?username=mehedycode&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false) 
-
-
-
-#
-
-### <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Alien Monster" width="25" height="25" /> Used Languages
+### <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Alien Monster" width="25" height="25" /> Current Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedycode&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
