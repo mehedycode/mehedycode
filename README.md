@@ -45,7 +45,7 @@ I have good knowledge of html css & css frameworks like bootstrap and tailwind c
 #
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="25" height="25" /> How to reach me 
-⤷ mehedycode@gmail.com
+ <a><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Medium%20Skin%20Tone.png" alt="Backhand Index Pointing Right Medium Skin Tone" width="15" height="15" /> mehedycode@gmail.com</a>
 
 #
 
