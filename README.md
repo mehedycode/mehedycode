@@ -9,13 +9,15 @@ I have good knowledge of html css & css frameworks like bootstrap and tailwind c
 
  <p align="left">
        <a href="https://twitter.com/mehedycode" target="blank"><img src="https://img.shields.io/twitter/follow/mehedycode?logo=twitter&style=for-the-badge" alt="mehedycode" /></a>  &nbsp;  &nbsp;
-      <a href="https://github.com/mehedycode?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mehedycode?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>  &nbsp;
-      <a href="https://github.com/mehedycode?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mehedycode?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
- 
+       <a href="https://github.com/mehedycode?tab=followers">
+       <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mehedycode?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person- 
+       add&label=Follow&logoColor=white"/></a>  &nbsp;
+       <a href="https://github.com/mehedycode?tab=repositories&sort=stargazers">
+       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mehedycode?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200" />  
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200" />  
 
 ###  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="20" /> Tech and Tools
 
@@ -50,6 +52,7 @@ I have good knowledge of html css & css frameworks like bootstrap and tailwind c
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="25" height="25" /> How to reach me 
 ⤷ mehedycode@gmail.com
+
 #
 
 ### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="20"> Let's Connect 
@@ -58,6 +61,6 @@ I have good knowledge of html css & css frameworks like bootstrap and tailwind c
       <a href="https://www.facebook.com/devmehedirony"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="50"> </a>
       <a href="#"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"></a>
       <a href="https://www.instagram.com/devmehedirony"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50"></a>
-      <a href="https://discord.com/channels/iammehedirony"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100"></a>
+      <a href="https://discord.com/channels/iammehedirony"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50"></a>
     </div>
 
