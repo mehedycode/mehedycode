@@ -58,6 +58,6 @@ I have good knowledge of html css & css frameworks like bootstrap and tailwind c
 
 #
 
-## 📨 How to reach me 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="25" height="25" /> How to reach me 
 ⤷ mehedycode@gmail.com
 
