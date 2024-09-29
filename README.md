@@ -44,7 +44,7 @@ I have good knowledge of html css & css frameworks like bootstrap and tailwind c
 
 
 
-### 📉 Current Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Current Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=mehedycode&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false) 
 
