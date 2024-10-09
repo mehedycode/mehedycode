@@ -8,7 +8,6 @@
 I have good knowledge of html css & css frameworks like bootstrap and tailwind css. I have good skills in javascript & javascript framework react js. I have good skills in back-end node js, express js & next js. I have a good understanding of MongoDB as a database. currently, I am studying computer science with software engineering subject
 
  <p align="left">
-       <a href="https://twitter.com/mehedycode" target="blank"><img src="https://img.shields.io/twitter/follow/mehedycode?logo=twitter&style=for-the-badge" alt="mehedycode" /></a>  &nbsp;  &nbsp;
        <a href="https://github.com/mehedycode?tab=followers">
        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mehedycode?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person- add&label=Follow&logoColor=white"/></a>  &nbsp;
        <a href="https://github.com/mehedycode?tab=repositories&sort=stargazers">
@@ -48,7 +47,7 @@ I have good knowledge of html css & css frameworks like bootstrap and tailwind c
  <a><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Medium%20Skin%20Tone.png" alt="Backhand Index Pointing Right Medium Skin Tone" width="15" height="15" /> mehedycode@gmail.com</a>
 
 #
-
+<!--
 ### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f564d9a-467a-4bba-ad3a-8527c8ab79ae" width="20"> Let's Connect 
 
  <div>
@@ -57,4 +56,6 @@ I have good knowledge of html css & css frameworks like bootstrap and tailwind c
       <a href="https://www.instagram.com/devmehedirony"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50"></a>
       <a href="https://discord.com/channels/devmehedirony"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50"></a>
     </div>
+  -->
+    
 
